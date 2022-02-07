@@ -1,0 +1,168 @@
+/*  nav bar  */
+
+.menu-nav {
+    display: inline-block;
+}
+
+.nav-list {
+    padding: 0 1.875rem;
+    margin: 0;
+    display: inline-block;
+    font-size: 1.5rem;
+}
+
+.nav-list-option {
+    text-decoration: none;
+}
+
+.nav-list-option-active {
+    color: #5BACC3;
+    text-decoration: none;
+}
+
+h2.name {
+    font-size: 3.75rem;
+    font-weight: 300;
+    display: inline-block;
+    margin: 0;
+}
+
+.logo {
+    max-width: 10%;
+    display: inline-block;
+    margin-top: 2rem;
+    margin-left: 1.5rem;
+}
+
+nav {
+    background-color: #FFF0ED;
+}
+
+/*  menu head  */
+
+.menu-head {
+    align-items: center;
+    min-width: 17.5rem;
+    max-width: 18.75rem;
+    min-height: 11.25rem;
+    max-height: 212.5rem;
+    background-color: #393939;
+    color: #FFF;
+    margin: auto;
+}
+
+.menu-head-text {
+    text-align: center;
+    padding: 0 0.625rem 2.5rem 0.0625rem;
+    font-weight: 300;
+    font-size: 3rem;
+}
+
+/*  menu bar  */
+
+.menu-top {
+    min-width: 10rem;
+    max-width: 100%;
+    min-height: 100%;
+    background-color: #393939;
+    text-align: center;
+    color: #FFF;
+    margin-top: 22rem;
+}
+
+.menu-top-list {
+    display: inline-block;
+    min-height: 50%;
+    border-left: #5BACC3 solid 2px;
+    padding-left: 1rem ;
+    padding-right: 1rem;
+}
+
+.menu-top-name {
+    color: #FFF;
+    margin: 0;
+    padding-top: 0;
+    text-decoration: none;
+}
+
+/*  main menu  */
+
+.menu-item-one {
+    background-color: #FFF0ED;
+    font-family: 'Open Sans';
+    padding-top: 2rem;
+}
+
+.menu-item-two {
+    background-color: #F7F7F7;
+    font-family: 'Open Sans';
+}
+
+.menu-item-three {
+    background-color: #FFF0ED;
+    font-family: 'Open Sans';
+}
+
+.menu-subitem-name {
+    font-weight: 300;
+    font-size: 2.0625rem;
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 0;
+}
+
+.menu-item-name {
+    font-size: 3.75rem;
+    font-weight: 300;
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 0;
+}
+
+.menu-list {
+    list-style-type: none;
+    min-width: 100%;
+    max-width: 100%;
+    margin-bottom: 0;
+}
+
+.item-cost {
+    text-align: center;
+    color: #5BACC3;
+    font-size: 1.125rem;
+    font-weight: 400;
+    padding-bottom: 2rem;
+}
+
+.menu-list {
+    text-align: center;
+}
+
+.menu-subitem-description {
+    margin: auto;
+    max-width: 30%;
+    font-style: italic;
+    text-align: center;
+    font-size: 1.125rem;
+    font-weight: 400;
+}
+
+.menu-main {
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 10rem;
+    max-height: 37.5rem;
+    background-image: url("../assets/coffee-circle.jpg");
+    background-size: cover;
+    background-position: center;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
